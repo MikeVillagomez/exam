@@ -1,22 +1,22 @@
-body { 
+.body { 
     border: 3px dotted black; 
     margin: 10px;
 }
-main {
+.main {
     border:  2px solid black;
     width:   500px;  
     margin:  20px;
     padding: 10px;
 }
-h1, p {
+.h1, p {
     border: 1px dashed black;
     padding: 10px;
 }
-h1 {
+.h1 {
     margin: .5em 0 .25em;
     padding-left: 15px;
 }
-p {
+.p {
     margin: 0;
     padding-left: 15px;
 }
